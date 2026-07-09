@@ -41,7 +41,7 @@ Management Professional | Corporate Finance & Valuations
 Focus: Ethiopian Capital Markets & ESX Research
 
 - GitHub: [nathanielpresents](https://github.com/nathanielpresents)
-- LinkedIn: (add your profile)
+- LinkedIn: https://www.linkedin.com/in/natnael-seyum07
 
 ## Related Projects
 
